@@ -1,6 +1,6 @@
 - estudante de front-end
 
-HTMl | CSS | VanillaJS | React Js
+HTML | CSS | JavaScript | React Js
 
 <!---
 barbara-teresa-toledo/barbara-teresa-toledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
