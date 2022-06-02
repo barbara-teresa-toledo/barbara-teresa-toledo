@@ -1,12 +1,9 @@
 ### Hello! 
-Meu nome é Bárbara e atualmente estou estudando para me tornar dev front-end :)
-
-![ezgif com-gif-maker  width="20" height="20"](https://user-images.githubusercontent.com/97132820/171661926-392d6df1-2bf6-4836-8abf-218a75fa8578.gif)
-
+Meu nome é Bárbara e atualmente estou estudando para me tornar dev front-end.
 
 <a href="https://github.com/barbara-teresa-toledo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-teresa-toledo&layout=compact&langs_count=7&theme=panda"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbara-teresa-toledo&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-teresa-toledo&layout=compact&langs_count=7&theme=moltack"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbara-teresa-toledo&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
 
 ### Ferramentas e Tecnologias que tenho conhecimento
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -18,6 +15,11 @@ Meu nome é Bárbara e atualmente estou estudando para me tornar dev front-end :
           
 ### Meus contatos
 <a href="https://www.linkedin.com/in/barbara-teresa-toledo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:barbara-teresa@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          
+### Obrigada pela visita :)
+
+![ezgif com-gif-maker  width="20" height="20"](https://user-images.githubusercontent.com/97132820/171661926-392d6df1-2bf6-4836-8abf-218a75fa8578.gif)
+          
           
 <!---
 barbara-teresa-toledo/barbara-teresa-toledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
