@@ -1,5 +1,5 @@
 ### Hello! 
-Meu nome é Bárbara e atualmente estou estudando para me tornar dev front-end.
+Meu nome é Bárbara, atualmente estou cursando Tecnologia de Informação e estudando para me tornar dev front-end.
 
 <a href="https://github.com/barbara-teresa-toledo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-teresa-toledo&layout=compact&langs_count=7&theme=moltack"/>
