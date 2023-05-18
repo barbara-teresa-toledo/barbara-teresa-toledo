@@ -2,8 +2,8 @@
 Meu nome é Bárbara, atualmente estou cursando Tecnologia de Informação e estudando para me tornar dev full stack.
 
 <a href="https://github.com/barbara-teresa-toledo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-teresa-toledo&layout=compact&langs_count=7&theme=panda"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbara-teresa-toledo&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-teresa-toledo&hide_progress=true&langs_count=8&theme=buefy&bg_color=45,000000,8a003b,f50069&title_color=fefefe&text_color=fefefe&icon_color=fefefe"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbara-teresa-toledo&show_icons=true&theme=buefy&bg_color=45,000000,8a003b,f50069&title_color=fefefe&text_color=fefefe&icon_color=fefefe&include_all_commits=true&count_private=true"/>
 
 ### Ferramentas e Tecnologias que tenho conhecimento
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" /> 
