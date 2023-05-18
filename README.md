@@ -1,5 +1,5 @@
 ## Hello! I'm Bárbara :sparkles:
-:computer:  I'm a brasilian entry level software developer and technology information student.
+:computer:  I'm a brazilian entry level software developer and technology information student.
 
 :scroll: I currently work with Vue Js and React Native.
 
