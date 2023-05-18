@@ -20,12 +20,6 @@
 ### My contacts
 <a href="https://www.linkedin.com/in/barbara-teresa-toledo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:barbara-teresa@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           
-### Thank you for your time :)
+### Thanks for your time :)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/97132820/171661926-392d6df1-2bf6-4836-8abf-218a75fa8578.gif)
-          
-          
-<!---
-barbara-teresa-toledo/barbara-teresa-toledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![ezgif com-resize](https://github.com/barbara-teresa-toledo/barbara-teresa-toledo/assets/97132820/e464f7ed-a417-4626-a7e7-22a148772ddd)
