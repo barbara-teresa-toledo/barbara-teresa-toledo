@@ -3,7 +3,7 @@
 
 :scroll: Atualmente eu trabalho com Next, Vue e React Native.
 
-:books: No momento, estou estudando C#.
+:books: No momento, estou estudando Laravel.
 
 <a href="https://github.com/barbara-teresa-toledo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-teresa-toledo&hide_progress=true&langs_count=8&theme=buefy&bg_color=45,780E35,00116B&title_color=fefefe&text_color=fefefe&icon_color=fefefe"/>
