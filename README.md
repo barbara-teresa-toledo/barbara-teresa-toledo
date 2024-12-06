@@ -1,7 +1,7 @@
 ## Hello! I'm Barb :rainbow:
 :dart: Software Developer
 
-:books: Currently working with TypeScript + React + Node
+:books: Currently working with Go
 
 :blue_heart: Back-End :blue_heart: | :purple_heart: Front-End :purple_heart: | :pink_heart: DevOps :pink_heart:
 --- | --- | ---
